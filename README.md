@@ -1,5 +1,5 @@
-  * [TF-IDF](##TF-IDF)  
-  * [N-gram](##N-gram)
+  * [TF-IDF](#TF-IDF)  
+  * [N-gram](#N-gram)
   *
   README
 ===========================
@@ -52,4 +52,4 @@
   
   
   
-##TF-IDF
+TF-IDF
