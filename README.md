@@ -1,5 +1,5 @@
-* (##TF-IDF)  
-* N-gram
-*
+  * [TF-IDF](##TF-IDF)  
+  * [N-gram](##N-gram)
+  *
 
 ##TF-IDF
