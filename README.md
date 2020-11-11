@@ -11,8 +11,6 @@ README
 
 [华为开源noah模型](https://github.com/huawei-noah/Pretrained-Language-Model)
 
------
-
 ## 多任务学习-摘要生成
 [多任务学习文本阅读理解](https://github.com/xycforgithub/MultiTask-MRC)
 
@@ -24,7 +22,7 @@ README
 
 []()
 
-------
+**************
 
 # 摘要抽取算法
 [使用三种方法实现中文抽取式自动文摘，分别是TextRank算法、MMR（最大边界相关算法）算法和TextRank+Word2vec方法](https://github.com/God-Fish-X/Extractable-automatic-Text)
@@ -32,6 +30,8 @@ README
 [抽取式Textrank和生成式seq2seq](https://github.com/ztz818/Automatic-generation-of-text-summaries)
 []()
 []()
+
+************
 
 # 其他
 [中文任务评测基准数据集](https://github.com/CLUEbenchmark/CLUE)
