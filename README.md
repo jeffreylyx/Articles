@@ -11,6 +11,8 @@ README
 
 [华为开源noah模型](https://github.com/huawei-noah/Pretrained-Language-Model)
 
+[ALBERT-PYTORCH](https://github.com/lonePatient/albert_pytorch)
+
 ## 多任务学习-摘要生成
 [多任务学习文本阅读理解](https://github.com/xycforgithub/MultiTask-MRC)
 
