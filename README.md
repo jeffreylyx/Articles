@@ -5,13 +5,16 @@ README
 ## 摘要生成模型
 [基于GP2的中文摘要生成模型](https://github.com/qingkongzhiqian/GPT2-Summary) 
 
-[指针生成网络](https://github.com/LowinLi/Text-Summarizer-Pytorch-Chinese)
+[指针生成网络-基于LCSTS数据集](https://github.com/LowinLi/Text-Summarizer-Pytorch-Chinese)
 
 [简单的Seq2Seq模型](https://github.com/bentrevett/pytorch-seq2seq)
 
 [华为开源noah模型](https://github.com/huawei-noah/Pretrained-Language-Model)
 
 [ALBERT-PYTORCH](https://github.com/lonePatient/albert_pytorch)
+
+[全局编码用于文本摘要-基于LCSTS数据集](https://github.com/lancopku/Global-Encoding)
+模型是建立在seq2seq模型的基础上的。对于编码器，我们为全局编码设置了一个卷积门控单元。全局编码以RNN编码器的输出为基础，用CNN改进源上下文的表示，以改进单词表示与全局上下文的连接。
 
 ## 多任务学习-摘要生成
 [多任务学习文本阅读理解](https://github.com/xycforgithub/MultiTask-MRC)
