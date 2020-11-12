@@ -11,7 +11,7 @@ README
 
 [华为开源noah模型](https://github.com/huawei-noah/Pretrained-Language-Model)
 
-[NLP预训练模型汇总](BERT、GPT-2、 RoBERTa、XLNet、ALBERT、T5、ELECTRA)
+[NLP预训练模型汇总](https://github.com/thunlp/PLMpapers)
 
 [ALBERT-PYTORCH](https://github.com/lonePatient/albert_pytorch)
 
