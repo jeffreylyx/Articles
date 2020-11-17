@@ -15,6 +15,8 @@ README
 
 [ALBERT-PYTORCH](https://github.com/lonePatient/albert_pytorch)
 
+[bertsum+chinese](https://github.com/Machine-Tom/bertsum-chinese-LAI)
+
 [全局编码用于文本摘要-基于LCSTS数据集](https://github.com/lancopku/Global-Encoding)
 模型是建立在seq2seq模型的基础上的。对于编码器，我们为全局编码设置了一个卷积门控单元。全局编码以RNN编码器的输出为基础，用CNN改进源上下文的表示，以改进单词表示与全局上下文的连接。
 
